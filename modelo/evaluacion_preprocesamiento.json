@@ -1,0 +1,259 @@
+{
+ "lienzo": {
+  "imagenes": 990,
+  "basico": 0.5959595959595959,
+  "proyecto": 0.9939393939393939,
+  "sin_detectar": 0
+ },
+ "foto": {
+  "imagenes": 1000,
+  "basico": 0.12,
+  "proyecto": 0.988,
+  "sin_detectar": 0
+ },
+ "numero": {
+  "imagenes": 250,
+  "lectura_exacta": 0.956,
+  "conteo_correcto": 0.988,
+  "digitos_correctos": 0.98
+ },
+ "zonas_tamanos": {
+  "total": {
+   "imagenes": 4997,
+   "basico": 0.3496097658595157,
+   "proyecto": 0.8811286772063238
+  },
+  "por_tamano": {
+   "muy peque\u00f1o": {
+    "imagenes": 777,
+    "basico": 0.09523809523809523,
+    "proyecto": 0.6576576576576577
+   },
+   "peque\u00f1o": {
+    "imagenes": 1080,
+    "basico": 0.10740740740740741,
+    "proyecto": 0.7648148148148148
+   },
+   "mediano": {
+    "imagenes": 1080,
+    "basico": 0.21944444444444444,
+    "proyecto": 0.9657407407407408
+   },
+   "grande": {
+    "imagenes": 1064,
+    "basico": 0.575187969924812,
+    "proyecto": 0.9755639097744361
+   },
+   "muy grande": {
+    "imagenes": 996,
+    "basico": 0.7108433734939759,
+    "proyecto": 0.9889558232931727
+   }
+  },
+  "por_zona": {
+   "arriba izquierda": {
+    "imagenes": 552,
+    "basico": 0.2391304347826087,
+    "proyecto": 0.8768115942028986
+   },
+   "arriba centro": {
+    "imagenes": 560,
+    "basico": 0.3964285714285714,
+    "proyecto": 0.8910714285714286
+   },
+   "arriba derecha": {
+    "imagenes": 549,
+    "basico": 0.2641165755919854,
+    "proyecto": 0.8979963570127505
+   },
+   "centro izquierda": {
+    "imagenes": 562,
+    "basico": 0.3469750889679715,
+    "proyecto": 0.8629893238434164
+   },
+   "centro centro": {
+    "imagenes": 559,
+    "basico": 0.5330948121645797,
+    "proyecto": 0.8711985688729875
+   },
+   "centro derecha": {
+    "imagenes": 549,
+    "basico": 0.33879781420765026,
+    "proyecto": 0.8834244080145719
+   },
+   "abajo izquierda": {
+    "imagenes": 546,
+    "basico": 0.30952380952380953,
+    "proyecto": 0.8846153846153846
+   },
+   "abajo centro": {
+    "imagenes": 557,
+    "basico": 0.4021543985637343,
+    "proyecto": 0.8689407540394973
+   },
+   "abajo derecha": {
+    "imagenes": 563,
+    "basico": 0.31261101243339257,
+    "proyecto": 0.8934280639431617
+   }
+  },
+  "tamano_x_pincel": {
+   "muy peque\u00f1o": {
+    "4": {
+     "imagenes": 180,
+     "basico": 0.08333333333333333,
+     "proyecto": 0.9666666666666667
+    },
+    "6": {
+     "imagenes": 180,
+     "basico": 0.1,
+     "proyecto": 0.9444444444444444
+    },
+    "10": {
+     "imagenes": 180,
+     "basico": 0.08333333333333333,
+     "proyecto": 0.7
+    },
+    "16": {
+     "imagenes": 159,
+     "basico": 0.09433962264150944,
+     "proyecto": 0.22012578616352202
+    },
+    "24": {
+     "imagenes": 78,
+     "basico": 0.14102564102564102,
+     "proyecto": 0.07692307692307693
+    },
+    "32": null
+   },
+   "peque\u00f1o": {
+    "4": {
+     "imagenes": 180,
+     "basico": 0.08888888888888889,
+     "proyecto": 0.9888888888888889
+    },
+    "6": {
+     "imagenes": 180,
+     "basico": 0.09444444444444444,
+     "proyecto": 0.9777777777777777
+    },
+    "10": {
+     "imagenes": 180,
+     "basico": 0.10555555555555556,
+     "proyecto": 0.9722222222222222
+    },
+    "16": {
+     "imagenes": 180,
+     "basico": 0.1,
+     "proyecto": 0.9166666666666666
+    },
+    "24": {
+     "imagenes": 180,
+     "basico": 0.1388888888888889,
+     "proyecto": 0.5388888888888889
+    },
+    "32": {
+     "imagenes": 180,
+     "basico": 0.11666666666666667,
+     "proyecto": 0.19444444444444445
+    }
+   },
+   "mediano": {
+    "4": {
+     "imagenes": 180,
+     "basico": 0.14444444444444443,
+     "proyecto": 0.9777777777777777
+    },
+    "6": {
+     "imagenes": 180,
+     "basico": 0.2,
+     "proyecto": 0.9722222222222222
+    },
+    "10": {
+     "imagenes": 180,
+     "basico": 0.26666666666666666,
+     "proyecto": 0.9611111111111111
+    },
+    "16": {
+     "imagenes": 180,
+     "basico": 0.21666666666666667,
+     "proyecto": 0.9888888888888889
+    },
+    "24": {
+     "imagenes": 180,
+     "basico": 0.23333333333333334,
+     "proyecto": 0.9777777777777777
+    },
+    "32": {
+     "imagenes": 180,
+     "basico": 0.25555555555555554,
+     "proyecto": 0.9166666666666666
+    }
+   },
+   "grande": {
+    "4": {
+     "imagenes": 179,
+     "basico": 0.3575418994413408,
+     "proyecto": 0.9888268156424581
+    },
+    "6": {
+     "imagenes": 178,
+     "basico": 0.5730337078651685,
+     "proyecto": 0.9719101123595506
+    },
+    "10": {
+     "imagenes": 175,
+     "basico": 0.6057142857142858,
+     "proyecto": 0.9771428571428571
+    },
+    "16": {
+     "imagenes": 176,
+     "basico": 0.6079545454545454,
+     "proyecto": 0.9659090909090909
+    },
+    "24": {
+     "imagenes": 178,
+     "basico": 0.6460674157303371,
+     "proyecto": 0.9662921348314607
+    },
+    "32": {
+     "imagenes": 178,
+     "basico": 0.6629213483146067,
+     "proyecto": 0.9831460674157303
+    }
+   },
+   "muy grande": {
+    "4": {
+     "imagenes": 166,
+     "basico": 0.42771084337349397,
+     "proyecto": 0.9939759036144579
+    },
+    "6": {
+     "imagenes": 168,
+     "basico": 0.625,
+     "proyecto": 0.9821428571428571
+    },
+    "10": {
+     "imagenes": 167,
+     "basico": 0.7485029940119761,
+     "proyecto": 0.9820359281437125
+    },
+    "16": {
+     "imagenes": 169,
+     "basico": 0.8106508875739645,
+     "proyecto": 0.9940828402366864
+    },
+    "24": {
+     "imagenes": 161,
+     "basico": 0.8322981366459627,
+     "proyecto": 1.0
+    },
+    "32": {
+     "imagenes": 165,
+     "basico": 0.8242424242424242,
+     "proyecto": 0.9818181818181818
+    }
+   }
+  }
+ }
+}
